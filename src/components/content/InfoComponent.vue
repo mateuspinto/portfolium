@@ -5,7 +5,7 @@
       <p><i class="fa fa-envelope info-item"></i> <a href="mailto:mateus.p.silva@ufv.br">mateus.p.silva@ufv.br</a></p>
       <p><i class="fa fa-github-alt info-item"></i> <a href="https://github.com/mateuspinto">github.com/mateuspinto</a></p>
       <p><i class="fa fa-gitlab info-item"></i> <a href="https://gitlab.com/mateuspinto">gitlab.com/mateuspinto</a></p>
-      <a class="btn btn-danger pull-right" href="/static/cv.pdf" target="_blank"><i class="fa fa-file-pdf-o"></i> Download CV</a>
+      <p><button type="button" class="btn btn-primary btn-lg btn-block"><i class="fa fa-file-pdf-o"></i> Download CV</button></p>
     </div>
   </div>
 </template>
@@ -18,6 +18,7 @@ export default {
 </script>
 
 <style scoped>
+
   i.info-item {
     margin-right: 10px;
     color: #325d72;

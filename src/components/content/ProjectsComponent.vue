@@ -10,9 +10,6 @@
           <img src="/static/images/projects/mipspipeline.jpg" width="100%"/>
           <br/><br/>
           <p class="description">Full MIPS processor dual core with pipeline written in SystemVerilog based on the design from "Computer Organization and Design MIPS Edition - 5th Edition" of David Patterson John Hennessy. Simulation only.</p>
-          <div class="pull-right">
-            <a href="https://gitlab.com/mateuspinto/simplified-dualcore-mips" target="_blank" class="btn btn-warning"><i class="fa fa-gitlab"></i> VIEW ON GITLAB</a>
-          </div>
         </li>
 
         <li class="list-group-item">
@@ -23,9 +20,6 @@
             <div class="col-md-8">
               <span class="title"><strong>MIPS without pipeline - Patterson and Hennessy design based - </strong> <span class="subtitle">Federal University of Viçosa</span></span>
               <p class="description">A very simplified MIPS processor one cycled written in SystemVerilog based on the design from "Computer Organization and Design MIPS Edition - 5th Edition" of David Patterson John Hennessy. Includes implementation of code in Intel De2-155 FPGA.</p>
-              <div class="pull-right">
-                <a href="https://github.com/mateuspinto/FPGA_SystemVerilog_Non-Pipeline_MIPS_Processor-TP2-OC1-UFV" target="_blank" class="btn btn-warning"><i class="fa fa-github"></i> VIEW ON GITHUB</a>
-              </div>
             </div>
           </div>
         </li>
@@ -38,9 +32,6 @@
             <div class="col-md-8">
               <span class="title"><strong>ALMa - Mips Mounter and Linkeditor - </strong> <span class="subtitle"> Federal University of Viçosa</span></span>
               <p class="description">ALMa is an advanced linkeditor and MIPS assembber written in Python Object Oriented that can turn MIPS assembly code into binary, no matter if it has function calls or not. All currently MIPS assembly functions are supported.</p>
-              <div class="pull-right">
-                <a href="https://github.com/mateuspinto/ALMa_Mips_Mounter_and_Link_Editor-TP1-OC1-UFV" target="_blank" class="btn btn-warning"><i class="fa fa-github"></i> VIEW ON GITHUB</a>
-              </div>
             </div>
           </div>
         </li>
@@ -53,9 +44,6 @@
             <div class="col-md-8">
               <span class="title"><strong>Cache with writeback for MIPS - </strong> <span class="subtitle"> UBC, Lesc</span></span>
               <p class="description">Full cache implementation based on "Computer Organization and Design MIPS Edition - 5th Edition" of David Patterson John Hennessy for MIPS.</p>
-             <div class="pull-right">
-               <a href="https://gitlab.com/mateuspinto/simplified-cache-controller-for-mips" target="_blank" class="btn btn-warning"><i class="fa fa-gitlab"></i> VIEW ON GITLAB</a>
-             </div>
             </div>
           </div>
         </li>
@@ -98,9 +86,6 @@
             <div class="col-md-8">
               <span class="title"><strong>JupyterHub in Docker - </strong> <span class="subtitle"> Cinnecta</span></span>
               <p class="description">Full JupyterHub Docker image with all Anaconda Python3 base packages for multi-developer encoding in a cluster, with individual file environments and a shared folder among all, plus PySpark library.</p>
-              <div class="pull-right">
-                <a href="https://github.com/mateuspinto/JupyterHub_Configurado_Docker" target="_blank" class="btn btn-warning"><i class="fa fa-github"></i> VIEW ON GITHUB</a>
-              </div>
             </div>
           </div>
         </li>

@@ -27,21 +27,17 @@ export default {
 
 <style scoped>
   .hero-header {
-    width: 100vw;
+    width: 100%;
     height: 70vh;
     background-image: url('/static/images/header-bg.jpeg');
     background-repeat: no-repeat;
     background-size: cover;
     background-position-y: center;
-    border-bottom: 1px solid #989898;
     font-family: 'Raleway', sans-serif;
-    -webkit-box-shadow: -1px 7px 9px -6px rgba(110,110,110,0.81);
-    -moz-box-shadow: -1px 7px 9px -6px rgba(110,110,110,0.81);
-    box-shadow: -1px 7px 9px -6px rgba(110,110,110,0.81);
   }
 
   .hero-header .container-fluid {
-    background-color:rgba(22,22,22,0.7);
+    background-color:rgba(22, 23, 32, 0.85);
     height: 100%;
     border-top:1px solid #222222;
     display: flex;
@@ -49,7 +45,6 @@ export default {
   }
 
   .hero-header h1.hi {
-    background-color:rgba(33, 35, 51, 0.7);
     color: #DEDEDE;
     padding:10px;
     font-weight: bolder;
@@ -57,7 +52,6 @@ export default {
   }
 
   .hero-header p {
-    background-color:rgba(33, 35, 51, 0.7);
     color: #DEDEDE;
     padding:15px;
   }
@@ -117,10 +111,6 @@ export default {
 
   .corner-ribbon.sticky{
     position: fixed;
-  }
-
-  .corner-ribbon.shadow{
-    box-shadow: 0 0 3px rgba(45,45,45,.3);
   }
 
   .corner-ribbon.top-right{
