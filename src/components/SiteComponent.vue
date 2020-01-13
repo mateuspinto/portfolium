@@ -2,22 +2,19 @@
   <div>
     <site-header></site-header>
     <div class="site-container">
+
       <div class="row">
         <div class="col-md-8">
           <projects></projects>
           <work-experience></work-experience>
-          <div class="card">
-            <h2 class="card-title">GitHub Activity</h2>
-            <div class="card-body">
-              <github-feed login="mateuspinto"></github-feed>
-            </div>
-          </div>
         </div>
+
         <div class="col-md-4">
           <contact-info></contact-info>
           <skills></skills>
         </div>
       </div>
+
     </div>
     <site-footer></site-footer>
   </div>
@@ -33,7 +30,7 @@ import Projects from './content/ProjectsComponent'
 
 export default {
   name: 'SiteComponent',
-  components: { SiteHeader, SiteFooter, ContactInfo, Skills, WorkExperience, Projects },
+  components: {SiteHeader, SiteFooter, ContactInfo, Skills, WorkExperience, Projects},
   resource: 'SiteComponent'
 }
 </script>
