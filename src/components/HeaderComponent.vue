@@ -6,7 +6,7 @@
             <div class="col-lg-12">
               <h1 class="hi">Hi, I'm Mateus Pinto!</h1>
               <p class="text-center">
-                I'm a Brazilian redhead computer scientist (currently graduating in Federal University of Viçosa and University of British Columbia). I mainly work with hardware description, embedded systems and backend development. I work with machine learning and data analysis as well. 🤘
+                I'm a Brazilian redhead computer scientist (currently graduating in Federal University of Viçosa). I mainly work with hardware description, embedded systems and backend development. I work with machine learning and data analysis as well. 🤘
               </p>
               <div class="text-center">
                 <a href="mailto:mateus.p.silva@ufv.br" class="btn btn-primary"><i class="fa fa-envelope"></i> Contact Me</a>
