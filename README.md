@@ -1,4 +1,4 @@
-# portfolium
-[![Build Status](https://travis-ci.org/mateuspinto/portfolium.svg?branch=master)](https://travis-ci.org/mateuspinto/portfolium)  
+# portfolio
+[![Build Status](https://travis-ci.org/mateuspinto/portfolio.svg?branch=master)](https://travis-ci.org/mateuspinto/portfolio)  
   
-My portfolium written in Vue.js on mateuspinto.github.io
+My portfolio written in Vue.js on mateuspinto.github.io
